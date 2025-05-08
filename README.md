@@ -8,7 +8,7 @@ My Task:
 ⸻
 
 I. **Introduction**
-	•	Subtopic: Airline Market Share Analysis at San Francisco International Airport (SFO)
+Subtopic: Airline Market Share Analysis at San Francisco International Airport (SFO)
 	•	Guiding Questions:
 	1.	How is passenger traffic distributed among different airlines at SFO?
 	2.	How has this distribution changed over time?
@@ -27,9 +27,9 @@ I. **Introduction**
 	   •	Insight Answered: Airline traffic distribution over time at SFO
 
 ⸻
-**
+
 **III. Visual 2 – Python: Market Share Percentage Over Time**
-**	•	Chart Type: Normalized Stacked Area Chart (%)
+	•	Chart Type: Normalized Stacked Area Chart (%)
 	   •	Focus: Percentage of SFO passenger share per airline over time
 	   •	Key Observations:
 	   •	United holds dominant share
